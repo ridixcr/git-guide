@@ -1,4 +1,4 @@
-# Git - The Simple Guide
+# Git - The Simple Guide Spanish
 
-http://rogerdudler.github.com/git-guide/
+http://rogerdudler.github.io/git-guide/index.es.html
 
