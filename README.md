@@ -1,5 +1,6 @@
 # Git - Guia en Español
 una guía sencilla para comenzar con git. sin complicaciones ;)
+[Fuente](http://rogerdudler.github.io/git-guide/)
 ## Configuración
 [Descarga git para OSX](https://code.google.com/archive/p/git-osx-installer/downloads)
 
