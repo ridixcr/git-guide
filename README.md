@@ -93,7 +93,7 @@ Agregar archivos de forma interactiva
 
 ## Enlaces & recursos
 
-#### clientes gráficos
+### Clientes gráficos
 [GitX (L) (OSX, open source)](http://gitx.laullon.com/)
 
 [Tower (OSX)](https://www.git-tower.com/)
@@ -104,7 +104,7 @@ Agregar archivos de forma interactiva
 
 [GitBox (OSX)](https://itunes.apple.com/gb/app/gitbox/id403388357?mt=12)
 
-#### guías
+### Guías
 [Git Community Book](https://git-scm.com/book/en/v2)
 
 [Pro Git](https://git-scm.com/book/en/v2)
