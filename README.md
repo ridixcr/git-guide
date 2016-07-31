@@ -94,7 +94,7 @@ Agregar archivos de forma interactiva
 #### clientes gráficos
 [GitX (L) (OSX, open source)](http://gitx.laullon.com/)
 
-Tower (OSX)(https://www.git-tower.com/)
+[Tower (OSX)](https://www.git-tower.com/)
 
 [Source Tree (OSX, free)](https://www.sourcetreeapp.com/)
 
