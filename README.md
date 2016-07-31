@@ -1,5 +1,5 @@
 # Git - Guia en Español
-una guía sencilla para comenzar con git. sin complicaciones
+Una guía sencilla para comenzar con git. sin complicaciones
 por [Roger Dudler] (https://twitter.com/rogerdudler) (traducido por [@lfbarragan](https://twitter.com/lfbarragan) y [@adrimatellanes](https://twitter.com/adrimatellanes)) 
 [Fuente](http://rogerdudler.github.io/git-guide/)
 ## Configuración
